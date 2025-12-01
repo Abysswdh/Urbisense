@@ -71,7 +71,7 @@ p {
 }
 
 #preloader {
-  background: #ffffff url(/Home/Assets/preloading.gif) no-repeat center center;
+  background: #ffffff url(../../Assets/preloading.gif) no-repeat center center;
   background-size: 15%;
   width: 100%;
   height: 100%;
@@ -262,7 +262,7 @@ header.scrolled {
   margin-top: -6.7rem;
   width: 100vw;
   height: 400px;
-  background: url('/_Page/Gallery/gallery-assets/gallerybg.jpg') no-repeat center center;
+  background: url('gallery-assets/gallerybg.jpg') no-repeat center center;
   background-size: cover;
   display: flex;
   justify-content: center;

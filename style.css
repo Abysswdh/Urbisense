@@ -72,7 +72,7 @@ p {
 }
 
 #preloader {
-  background: #ffffff url(/Home/Assets/preloading.gif) no-repeat center center;
+  background: #ffffff url(Assets/preloading.gif) no-repeat center center;
   background-size: 15%;
   width: 100%;
   height: 100%;
@@ -1263,7 +1263,7 @@ a.home-link{
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background: url('/Home/Assets/forgallery.png') no-repeat center center;
+  background: url('Assets/forgallery.png') no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
   width: 100vw;
