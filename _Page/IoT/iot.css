@@ -264,7 +264,7 @@ header.scrolled {
   height: 30vw;
   display: block;
   position: relative;
-  background: url('/_Page/IoT/iot-assets/iot-bg.jpg') no-repeat center center;
+  background: url('iot-assets/iot-bg.jpg') no-repeat center center;
   background-size: cover;
 }
 
