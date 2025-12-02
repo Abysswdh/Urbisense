@@ -264,7 +264,7 @@ header.scrolled {
   height: 30vw;
   display: block;
   position: relative;
-  background: url('/_Page/UrbanGreenspace/urban-assets/bg-urbangreen.jpg') no-repeat center center;
+  background: url('urban-assets/bg-urbangreen.jpg') no-repeat center center;
   background-size: cover;
 }
 

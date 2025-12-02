@@ -266,7 +266,7 @@ header.scrolled {
   height: 30vw;
   display: block;
   position: relative;
-  background: url('/_Page/SmartEnvironment/Assets/envibg.jpg') no-repeat center center;
+  background: url('Assets/envibg.jpg') no-repeat center center;
   background-size: cover;
 }
 
@@ -694,7 +694,7 @@ header.scrolled {
   padding: 0;
   margin-top: 8%;
   margin-bottom: 8%;
-  background: url(/_Page/SmartEnvironment/Assets/contoh/contoh-bg2.png);
+  background: url(Assets/contoh/contoh-bg2.png);
   padding: 3%;
 }
 
